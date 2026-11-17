@@ -11,7 +11,7 @@
 
 ## 🌷 About Me
 
-- 👩‍💻 I'm a Python and Django Backend Developer.
+- 👩‍💻 I'm a Python and Django full stack Developer.
 - 🌱 Currently learning and improving my backend development skills.
 - 💻 Interested in building real-world web applications.
 - 🤝 Love collaborating and learning new technologies.
